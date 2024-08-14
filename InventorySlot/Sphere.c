@@ -10,6 +10,7 @@ void InventortSlot(){
     int InventorySlot2017 = InventorySlot84 + InventorySlot369;
     int InventorySlot520 = InventorySlot1234 + InventorySlot567890;
     int NInventory = N1InventorySlot + N0InventorySlot;
+    int InventorySlot2017 + InventorySlot520 = NInventorySlot;
 }
 void Sphere(){
     int X,Y,Z;
