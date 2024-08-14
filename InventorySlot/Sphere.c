@@ -5,6 +5,7 @@
 #include "N0InventorySlot.ts"
 #include "N1InventorySlot.ts"
 #include "XYZ.ts"
+#include "alphabet.c"
 void multihedron(){
 
 }
