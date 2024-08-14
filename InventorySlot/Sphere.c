@@ -14,5 +14,8 @@ void InventortSlot(){
 }
 void Sphere(){
     int X,Y,Z;
-    char Sphere = X ^ 2 + Y ^ 2 + Z ^ 2;
+    char X = InventorySlot2017;
+    char Y = InventorySlot520;
+    char Z = NInventorySlot;
+    const Sphere = X ^ 2 + Y ^ 2 + Z ^ 2;
 }
