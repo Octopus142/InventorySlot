@@ -7,14 +7,14 @@
 #include "XYZ.ts"
 #include "alphabet.c"
 void InventortSlot(){
-    int InventorySlot2017 = InventorySlot84 + InventorySlot369;
-    int InventorySlot520 = InventorySlot1234 + InventorySlot567;
+    int Inventory = InventorySlot84 + InventorySlot369;
+    int Slot = InventorySlot1234 + InventorySlot567;
     int NInventorySlot = N1InventorySlot + N0InventorySlot;
 }
 void Sphere(){
     int X,Y,Z;
-    char X = InventorySlot2017;
-    char Y = InventorySlot520;
+    char X = Inventory;
+    char Y = Slot;
     char Z = NInventorySlot;
     const Sphere = X ^ 2 + Y ^ 2 + Z ^ 2;
 }
